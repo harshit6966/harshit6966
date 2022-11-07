@@ -1,6 +1,6 @@
 ### Hey there 
-<a href="https://www.linkedin.com/in/harshit2716/">
-  <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/harshit6966/personal-portfolio/master/media/trailhead.svg" />
+<a href="https://trailblazer.me/id/harshit6966">
+  <img align="left" alt="Trailheaed" width="22px" src="https://raw.githubusercontent.com/harshit6966/personal-portfolio/master/media/trailhead.svg" />
 </a>
 <a href="https://www.linkedin.com/in/harshit2716/">
   <img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
