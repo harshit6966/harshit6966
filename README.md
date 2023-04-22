@@ -10,7 +10,7 @@
 
 <br />
 
-Hi, I'm [Harshit Kumar](https://harshit6966.github.io/personal-portfolio/), a focused individual working on the Salesforce platform from the last 1 year. Experience working and developing using the Salesforce platform. Having working knowledge of Apex, Java, SOQL, SQL, HTML, CSS, JavaScript, LWC, Visualforce, Angular, Spring Boot.
+Hi, I'm [Harshit Kumar](https://harshit6966.github.io/personal-portfolio/), a focused individual working on the Salesforce platform from the last 1.5 year. Experience working and developing using the Salesforce platform. Having working knowledge of Apex, Java, SOQL, SQL, HTML, CSS, JavaScript, LWC, Visualforce.
   
 - 💼 Any freelance work? Do reach out at [email](mailto:harshit6966@gmail.com) :)
 - 💬 Ask me about anything, I would be more than happy to help;
